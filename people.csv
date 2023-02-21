@@ -1,0 +1,593 @@
+"FullName","FirstName","LastName","CountryCode","CountryName","Gender",DateOfBirth,ContractID
+"Jack Hall","Jack","Hall","GB","United Kingdom of Great Britain and Northern Ireland","M",1958-03-20,518
+"Katharina Hoffmann","Katharina","Hoffmann","DE","Germany","F",1978-03-25,280
+"Ryan Evans","Ryan","Evans","GB","United Kingdom of Great Britain and Northern Ireland","M",1989-11-09,576
+"Léa Moreau","Léa","Moreau","FR","France","F",1947-08-20,30
+"Emma Doherty","Emma","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","F",1960-12-07,445
+"Michael Fischer","Michael","Fischer","DE","Germany","M",1966-09-02,324
+"Luca Russo","Luca","Russo","IT","Italy","M",1948-03-04,932
+"Sophie Clark","Sophie","Clark","GB","United Kingdom of Great Britain and Northern Ireland","F",1947-11-16,483
+"Lorenzo Esposito","Lorenzo","Esposito","IT","Italy","M",1987-05-12,984
+"Johanna Schmidt","Johanna","Schmidt","DE","Germany","F",1990-11-10,282
+"Alice Bruno","Alice","Bruno","IT","Italy","F",1995-03-27,878
+"Laura Robert","Laura","Robert","FR","France","F",2001-03-25,55
+"Julie Moreau","Julie","Moreau","FR","France","F",1990-01-16,70
+"Laura López","Laura","López","ES","Spain","F",1960-10-26,615
+"Lukas Schneider","Lukas","Schneider","DE","Germany","M",1957-04-24,313
+"Tim Schneider","Tim","Schneider","DE","Germany","M",1994-09-26,383
+"Silvia Greco","Silvia","Greco","IT","Italy","F",1976-01-18,860
+"Fabian Wagner","Fabian","Wagner","DE","Germany","M",1997-02-24,367
+"Sarah Schneider","Sarah","Schneider","DE","Germany","F",1988-09-20,263
+"Alex Johnson","Alex","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","M",1984-02-20,530
+"Silvia Romano","Silvia","Romano","IT","Italy","F",1947-10-22,856
+"Chiara Colombo","Chiara","Colombo","IT","Italy","F",1958-08-04,817
+"Jonas Schneider","Jonas","Schneider","DE","Germany","M",1945-06-11,353
+"Alex Becker","Alex","Becker","DE","Germany","M",1977-06-12,308
+"Kevin Fischer","Kevin","Fischer","DE","Germany","M",1970-06-20,394
+"Matthew Doherty","Matthew","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","M",1992-11-23,595
+"James Davies","James","Davies","GB","United Kingdom of Great Britain and Northern Ireland","M",1959-12-27,504
+"Maxime Moreau","Maxime","Moreau","FR","France","M",2003-01-04,150
+"Javier Pérez","Javier","Pérez","ES","Spain","M",1983-10-28,778
+"Antoine Petit","Antoine","Petit","FR","France","M",1995-05-02,167
+"Tom Jackson","Tom","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","M",2003-11-26,559
+"Thomas Petit","Thomas","Petit","FR","France","M",1972-09-25,107
+"Katie Evans","Katie","Evans","GB","United Kingdom of Great Britain and Northern Ireland","F",1985-01-01,496
+"Romain Bernard","Romain","Bernard","FR","France","M",1983-12-02,192
+"Hannah Hall","Hannah","Hall","GB","United Kingdom of Great Britain and Northern Ireland","F",1992-04-22,468
+"Fabian Becker","Fabian","Becker","DE","Germany","M",1973-12-18,368
+"Sam Hall","Sam","Hall","GB","United Kingdom of Great Britain and Northern Ireland","M",2001-03-20,588
+"Julia Weber","Julia","Weber","DE","Germany","F",1971-11-03,215
+"Charlotte Doherty","Charlotte","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","F",1961-12-31,435
+"Marcel Wagner","Marcel","Wagner","DE","Germany","M",1964-05-21,377
+"Alex Davies","Alex","Davies","GB","United Kingdom of Great Britain and Northern Ireland","M",1983-02-23,524
+"Daniel Brown","Daniel","Brown","GB","United Kingdom of Great Britain and Northern Ireland","M",1954-04-27,542
+"Alex Schmidt","Alex","Schmidt","DE","Germany","M",1945-08-14,302
+"Sara García","Sara","García","ES","Spain","F",1975-11-02,661
+"Sam Clark","Sam","Clark","GB","United Kingdom of Great Britain and Northern Ireland","M",1951-09-30,583
+"Michael Weber","Michael","Weber","DE","Germany","M",1955-06-16,325
+"Tom Hall","Tom","Hall","GB","United Kingdom of Great Britain and Northern Ireland","M",1973-12-22,558
+"Sophie Müller","Sophie","Müller","DE","Germany","F",1956-07-27,291
+"Federica Rossi","Federica","Rossi","IT","Italy","F",1945-02-05,881
+"Davide Bianchi","Davide","Bianchi","IT","Italy","M",1976-03-19,965
+"Alex Anderson","Alex","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","M",1965-01-05,521
+"Stefano Romano","Stefano","Romano","IT","Italy","M",1982-02-04,996
+"Alice Bianchi","Alice","Bianchi","IT","Italy","F",1952-08-14,875
+"Adam Johnson","Adam","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","M",1958-06-25,570
+"Adrian Rodríguez","Adrian","Rodríguez","ES","Spain","M",1998-04-30,744
+"Francesca Greco","Francesca","Greco","IT","Italy","F",1962-01-18,850
+"Michael Meyer","Michael","Meyer","DE","Germany","M",1995-11-11,326
+"Charlotte Anderson","Charlotte","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","F",1949-05-13,431
+"Giulia Ferrari","Giulia","Ferrari","IT","Italy","F",1988-09-06,803
+"Lukas Fischer","Lukas","Fischer","DE","Germany","M",1967-11-24,314
+"Sophie Weber","Sophie","Weber","DE","Germany","F",1957-02-08,295
+"Pablo García","Pablo","García","ES","Spain","M",1999-07-08,721
+"Lea Wagner","Lea","Wagner","DE","Germany","F",1952-08-31,207
+"Stefano Ferrari","Stefano","Ferrari","IT","Italy","M",1958-02-09,993
+"Michael Wagner","Michael","Wagner","DE","Germany","M",1983-04-08,327
+"Alex Hoffmann","Alex","Hoffmann","DE","Germany","M",1977-01-06,310
+"Daniel Hall","Daniel","Hall","GB","United Kingdom of Great Britain and Northern Ireland","M",1953-08-18,548
+"Lea Schulz","Lea","Schulz","DE","Germany","F",1954-06-01,209
+"Daniel Doherty","Daniel","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","M",1993-03-09,545
+"Francesco Rossi","Francesco","Rossi","IT","Italy","M",2000-02-17,921
+"Julia Schneider","Julia","Schneider","DE","Germany","F",1959-09-28,213
+"Daniel Johnson","Daniel","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","M",1985-03-14,550
+"Ellie Brown","Ellie","Brown","GB","United Kingdom of Great Britain and Northern Ireland","F",1977-09-29,472
+"Emily Hall","Emily","Hall","GB","United Kingdom of Great Britain and Northern Ireland","F",1960-08-11,408
+"Kevin Leroy","Kevin","Leroy","FR","France","M",1980-07-04,179
+"Lauren Evans","Lauren","Evans","GB","United Kingdom of Great Britain and Northern Ireland","F",1994-01-27,456
+"James Anderson","James","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","M",1953-11-19,501
+"Alessia Colombo","Alessia","Colombo","IT","Italy","F",1960-12-10,897
+"Maxime Richard","Maxime","Richard","FR","France","M",1984-11-06,146
+"Alex Müller","Alex","Müller","DE","Germany","M",2001-06-13,301
+"Megan Johnson","Megan","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","F",1953-02-19,430
+"Katie Davies","Katie","Davies","GB","United Kingdom of Great Britain and Northern Ireland","F",1964-04-01,494
+"Kevin Meyer","Kevin","Meyer","DE","Germany","M",1957-12-10,396
+"Laura Rodríguez","Laura","Rodríguez","ES","Spain","F",1960-09-04,614
+"Daniel Jackson","Daniel","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","M",1989-10-19,549
+"Silvia Ricci","Silvia","Ricci","IT","Italy","F",1973-08-02,859
+"James Doherty","James","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","M",1969-02-06,505
+"Alex Weber","Alex","Weber","DE","Germany","M",1990-01-15,305
+"Mathilde Thomas","Mathilde","Thomas","FR","France","F",1959-09-19,94
+"Lisa Hoffmann","Lisa","Hoffmann","DE","Germany","F",1967-11-25,250
+"Lorenzo Colombo","Lorenzo","Colombo","IT","Italy","M",1944-07-31,987
+"Lea Müller","Lea","Müller","DE","Germany","F",1949-07-17,201
+"Sarah Bernard","Sarah","Bernard","FR","France","F",1951-12-31,72
+"Chloe Doherty","Chloe","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","F",1963-07-07,415
+"Lorenzo Russo","Lorenzo","Russo","IT","Italy","M",1967-07-21,982
+"Daniel Hoffmann","Daniel","Hoffmann","DE","Germany","M",1999-04-17,340
+"Philipp Weber","Philipp","Weber","DE","Germany","M",1998-02-04,345
+"Julia Becker","Julia","Becker","DE","Germany","F",1948-11-19,218
+"Megan Evans","Megan","Evans","GB","United Kingdom of Great Britain and Northern Ireland","F",1958-02-01,426
+"Lauren Doherty","Lauren","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","F",1944-05-28,455
+"Ben Doherty","Ben","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","M",1966-10-20,535
+"Sophie Becker","Sophie","Becker","DE","Germany","F",1994-11-28,298
+"Pauline Moreau","Pauline","Moreau","FR","France","F",1954-05-13,90
+"Sara Pérez","Sara","Pérez","ES","Spain","F",1968-02-08,668
+"Lea Becker","Lea","Becker","DE","Germany","F",1962-09-25,208
+"Katie Jackson","Katie","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","F",1946-09-17,499
+"Fabian Schulz","Fabian","Schulz","DE","Germany","M",1958-11-10,369
+"Kevin Müller","Kevin","Müller","DE","Germany","M",1948-03-04,391
+"Emma Johnson","Emma","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","F",1982-09-16,450
+"Alice Romano","Alice","Romano","IT","Italy","F",1970-07-21,876
+"Matteo Ferrari","Matteo","Ferrari","IT","Italy","M",1968-01-10,943
+"Matteo Bianchi","Matteo","Bianchi","IT","Italy","M",1993-03-16,945
+"Ellie Hall","Ellie","Hall","GB","United Kingdom of Great Britain and Northern Ireland","F",1996-12-26,478
+"Kevin Dubois","Kevin","Dubois","FR","France","M",1970-11-04,173
+"Chloe Hall","Chloe","Hall","GB","United Kingdom of Great Britain and Northern Ireland","F",1958-01-19,418
+"Ryan Clark","Ryan","Clark","GB","United Kingdom of Great Britain and Northern Ireland","M",1980-04-10,573
+"Alessia Ferrari","Alessia","Ferrari","IT","Italy","F",1954-06-07,893
+"Anna Müller","Anna","Müller","DE","Germany","F",1951-08-23,231
+"Marcel Becker","Marcel","Becker","DE","Germany","M",1963-08-24,378
+"Stefano Ricci","Stefano","Ricci","IT","Italy","M",1965-03-20,999
+"Camille Petit","Camille","Petit","FR","France","F",1958-06-23,17
+"Lena Schmidt","Lena","Schmidt","DE","Germany","F",2003-02-12,252
+"James Clark","James","Clark","GB","United Kingdom of Great Britain and Northern Ireland","M",1998-10-19,503
+"Francesco Ferrari","Francesco","Ferrari","IT","Italy","M",1970-09-07,923
+"Alex Jackson","Alex","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","M",1982-09-11,529
+"Léa Robert","Léa","Robert","FR","France","F",1951-02-12,25
+"Julie Thomas","Julie","Thomas","FR","France","F",1990-07-20,64
+"Ellie Anderson","Ellie","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","F",1981-08-14,471
+"Michael Hoffmann","Michael","Hoffmann","DE","Germany","M",1979-04-07,330
+"Julia Meyer","Julia","Meyer","DE","Germany","F",1957-09-29,216
+"Javier González","Javier","González","ES","Spain","M",1951-06-07,773
+"Sarah Thomas","Sarah","Thomas","FR","France","F",1960-04-09,74
+"Johanna Schulz","Johanna","Schulz","DE","Germany","F",1947-10-21,289
+"Kevin Schulz","Kevin","Schulz","DE","Germany","M",1970-07-30,399
+"Lauren Jackson","Lauren","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","F",1990-09-13,459
+"Lea Hoffmann","Lea","Hoffmann","DE","Germany","F",1957-10-02,210
+"Mathilde Robert","Mathilde","Robert","FR","France","F",1965-08-20,95
+"Clement Petit","Clement","Petit","FR","France","M",2003-03-29,187
+"Alexandre Martin","Alexandre","Martin","FR","France","M",1988-11-19,151
+"Emma Anderson","Emma","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","F",1946-01-25,441
+"Katharina Schulz","Katharina","Schulz","DE","Germany","F",1966-10-22,279
+"Lena Fischer","Lena","Fischer","DE","Germany","F",1948-08-18,254
+"Miguel Martín","Miguel","Martín","ES","Spain","M",1987-04-10,799
+"Fabian Schneider","Fabian","Schneider","DE","Germany","M",1985-08-11,363
+"Johanna Fischer","Johanna","Fischer","DE","Germany","F",1987-04-19,284
+"Alex Doherty","Alex","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","M",1990-12-22,525
+"Carlos González","Carlos","González","ES","Spain","M",1961-01-17,783
+"Lukas Wagner","Lukas","Wagner","DE","Germany","M",2000-12-19,317
+"Sara Russo","Sara","Russo","IT","Italy","F",1954-07-26,822
+"Sam Green","Sam","Green","GB","United Kingdom of Great Britain and Northern Ireland","M",1946-03-17,587
+"Pablo Sánchez","Pablo","Sánchez","ES","Spain","M",1957-05-20,727
+"Pablo Rodríguez","Pablo","Rodríguez","ES","Spain","M",1947-04-02,724
+"Adam Jackson","Adam","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","M",1971-05-06,569
+"Julie Durand","Julie","Durand","FR","France","F",1950-10-16,68
+"Antoine Robert","Antoine","Robert","FR","France","M",2000-07-28,165
+"Silvia Russo","Silvia","Russo","IT","Italy","F",1959-10-08,852
+"Andrea García","Andrea","García","ES","Spain","F",1955-06-17,651
+"Alexandre Petit","Alexandre","Petit","FR","France","M",1976-12-28,157
+"Ryan Hall","Ryan","Hall","GB","United Kingdom of Great Britain and Northern Ireland","M",1966-11-18,578
+"Javier Gómez","Javier","Gómez","ES","Spain","M",1986-07-09,780
+"Sophie Schneider","Sophie","Schneider","DE","Germany","F",1977-12-27,293
+"Stefano Colombo","Stefano","Colombo","IT","Italy","M",1985-04-12,997
+"Sophie Green","Sophie","Green","GB","United Kingdom of Great Britain and Northern Ireland","F",1985-08-24,487
+"Maria López","Maria","López","ES","Spain","F",1961-07-15,605
+"Romain Durand","Romain","Durand","FR","France","M",1978-03-01,198
+"Alex Evans","Alex","Evans","GB","United Kingdom of Great Britain and Northern Ireland","M",1947-10-24,526
+"Nicolas Dubois","Nicolas","Dubois","FR","France","M",1946-09-18,113
+"Tim Hoffmann","Tim","Hoffmann","DE","Germany","M",1965-10-01,390
+"Francesca Bianchi","Francesca","Bianchi","IT","Italy","F",1984-04-30,845
+"Anna Hoffmann","Anna","Hoffmann","DE","Germany","F",1993-08-06,240
+"Sara Colombo","Sara","Colombo","IT","Italy","F",1982-02-06,827
+"Clement Moreau","Clement","Moreau","FR","France","M",1945-03-22,190
+"Anna Schulz","Anna","Schulz","DE","Germany","F",1973-06-20,239
+"Adrian López","Adrian","López","ES","Spain","M",2002-05-15,745
+"Carlos Martínez","Carlos","Martínez","ES","Spain","M",1984-02-13,786
+"Francesco Greco","Francesco","Greco","IT","Italy","M",1976-02-06,930
+"Adrian García","Adrian","García","ES","Spain","M",1988-09-06,741
+"Manon Petit","Manon","Petit","FR","France","F",1996-11-05,37
+"Léa Martin","Léa","Martin","FR","France","F",1955-02-28,21
+"Chiara Russo","Chiara","Russo","IT","Italy","F",1992-02-29,812
+"Jack Jackson","Jack","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","M",1949-11-08,519
+"Johanna Schneider","Johanna","Schneider","DE","Germany","F",1979-05-03,283
+"Chloé Dubois","Chloé","Dubois","FR","France","F",1947-09-19,43
+"Adam Hall","Adam","Hall","GB","United Kingdom of Great Britain and Northern Ireland","M",1972-05-14,568
+"Jack Clark","Jack","Clark","GB","United Kingdom of Great Britain and Northern Ireland","M",1953-11-23,513
+"Hannah Jackson","Hannah","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","F",1994-03-06,469
+"Martina Ferrari","Martina","Ferrari","IT","Italy","F",1985-05-15,833
+"Daniel Evans","Daniel","Evans","GB","United Kingdom of Great Britain and Northern Ireland","M",1973-04-25,546
+"Maria González","Maria","González","ES","Spain","F",1967-01-22,603
+"Alessia Romano","Alessia","Romano","IT","Italy","F",1954-02-27,896
+"Marta Rodríguez","Marta","Rodríguez","ES","Spain","F",1996-08-31,634
+"Clement Durand","Clement","Durand","FR","France","M",1980-05-13,188
+"Chloé Leroy","Chloé","Leroy","FR","France","F",1982-02-20,49
+"Clement Thomas","Clement","Thomas","FR","France","M",1994-11-09,184
+"Javier López","Javier","López","ES","Spain","M",1968-01-16,775
+"Lukas Becker","Lukas","Becker","DE","Germany","M",1959-12-19,318
+"Marie Dubois","Marie","Dubois","FR","France","F",1958-03-23,3
+"Luca Bruno","Luca","Bruno","IT","Italy","M",1966-09-19,938
+"Philipp Müller","Philipp","Müller","DE","Germany","M",1951-04-19,341
+"Sophie Anderson","Sophie","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","F",1971-05-30,481
+"Laura Dubois","Laura","Dubois","FR","France","F",1976-02-03,53
+"Marcel Weber","Marcel","Weber","DE","Germany","M",1949-10-12,375
+"Marie Robert","Marie","Robert","FR","France","F",1964-08-04,5
+"Johanna Becker","Johanna","Becker","DE","Germany","F",1948-10-16,288
+"Tim Schulz","Tim","Schulz","DE","Germany","M",1986-07-11,389
+"Clement Richard","Clement","Richard","FR","France","M",1947-01-03,186
+"Adam Green","Adam","Green","GB","United Kingdom of Great Britain and Northern Ireland","M",1988-07-14,567
+"Maxime Dubois","Maxime","Dubois","FR","France","M",2000-05-03,143
+"Sarah Meyer","Sarah","Meyer","DE","Germany","F",2000-03-10,266
+"Laura Becker","Laura","Becker","DE","Germany","F",1964-03-08,228
+"Mathilde Petit","Mathilde","Petit","FR","France","F",1966-11-11,97
+"Lea Schneider","Lea","Schneider","DE","Germany","F",1961-09-03,203
+"Alessia Bianchi","Alessia","Bianchi","IT","Italy","F",1989-02-15,895
+"Tom Evans","Tom","Evans","GB","United Kingdom of Great Britain and Northern Ireland","M",1974-04-02,556
+"Lea Schmidt","Lea","Schmidt","DE","Germany","F",1970-08-28,202
+"Julien Leroy","Julien","Leroy","FR","France","M",1946-04-05,129
+"Alex Schulz","Alex","Schulz","DE","Germany","M",1996-12-13,309
+"Lauren Green","Lauren","Green","GB","United Kingdom of Great Britain and Northern Ireland","F",1944-02-13,457
+"Julia Fischer","Julia","Fischer","DE","Germany","F",1947-09-06,214
+"Francesco Colombo","Francesco","Colombo","IT","Italy","M",1982-06-25,927
+"Anna Meyer","Anna","Meyer","DE","Germany","F",2002-08-29,236
+"Charlotte Davies","Charlotte","Davies","GB","United Kingdom of Great Britain and Northern Ireland","F",1977-01-18,434
+"Matthew Johnson","Matthew","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","M",1990-03-23,600
+"Tom Doherty","Tom","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","M",1960-02-04,555
+"Chloe Brown","Chloe","Brown","GB","United Kingdom of Great Britain and Northern Ireland","F",2002-08-16,412
+"Tim Schmidt","Tim","Schmidt","DE","Germany","M",1992-10-03,382
+"Julia Schmidt","Julia","Schmidt","DE","Germany","F",1984-07-22,212
+"Álvaro Sánchez","Álvaro","Sánchez","ES","Spain","M",1968-06-10,737
+"Francesco Esposito","Francesco","Esposito","IT","Italy","M",1952-05-07,924
+"Camille Dubois","Camille","Dubois","FR","France","F",1974-12-01,13
+"Pauline Martin","Pauline","Martin","FR","France","F",1972-10-14,81
+"Francesca Romano","Francesca","Romano","IT","Italy","F",1953-04-20,846
+"Francesco Russo","Francesco","Russo","IT","Italy","M",1990-04-08,922
+"Matteo Russo","Matteo","Russo","IT","Italy","M",1961-02-22,942
+"James Hall","James","Hall","GB","United Kingdom of Great Britain and Northern Ireland","M",1996-10-05,508
+"Elisa Bruno","Elisa","Bruno","IT","Italy","F",1990-07-07,868
+"Nicolas Martin","Nicolas","Martin","FR","France","M",1949-08-03,111
+"Laura Schmidt","Laura","Schmidt","DE","Germany","F",1956-08-24,222
+"Lisa Schulz","Lisa","Schulz","DE","Germany","F",2002-06-07,249
+"Chiara Romano","Chiara","Romano","IT","Italy","F",1974-11-13,816
+"Antoine Moreau","Antoine","Moreau","FR","France","M",1986-08-30,170
+"Megan Green","Megan","Green","GB","United Kingdom of Great Britain and Northern Ireland","F",1984-12-09,427
+"Nicolas Thomas","Nicolas","Thomas","FR","France","M",1998-05-27,114
+"Jonas Wagner","Jonas","Wagner","DE","Germany","M",1953-11-14,357
+"Laura Schneider","Laura","Schneider","DE","Germany","F",1983-10-19,223
+"Julia Müller","Julia","Müller","DE","Germany","F",1980-12-08,211
+"Michael Müller","Michael","Müller","DE","Germany","M",1965-09-21,321
+"Andrea Bianchi","Andrea","Bianchi","IT","Italy","M",1952-05-29,905
+"Alex García","Alex","García","ES","Spain","M",1948-02-19,761
+"David Fernández","David","Fernández","ES","Spain","M",1963-03-26,702
+"Julia Wagner","Julia","Wagner","DE","Germany","F",1998-05-24,217
+"Emma Davies","Emma","Davies","GB","United Kingdom of Great Britain and Northern Ireland","F",1958-09-14,444
+"Lorenzo Ferrari","Lorenzo","Ferrari","IT","Italy","M",1992-05-07,983
+"Daniel Schmidt","Daniel","Schmidt","DE","Germany","M",1944-10-31,332
+"Pablo López","Pablo","López","ES","Spain","M",1985-10-21,725
+"Sophie Fischer","Sophie","Fischer","DE","Germany","F",1980-06-26,294
+"Marina Martínez","Marina","Martínez","ES","Spain","F",1963-12-12,696
+"Daniel Schneider","Daniel","Schneider","DE","Germany","M",1956-02-10,333
+"Fabian Weber","Fabian","Weber","DE","Germany","M",1974-04-17,365
+"Andrea Ferrari","Andrea","Ferrari","IT","Italy","M",1971-11-09,903
+"Alice Colombo","Alice","Colombo","IT","Italy","F",1953-03-04,877
+"Julien Martin","Julien","Martin","FR","France","M",1956-08-08,121
+"Lukas Meyer","Lukas","Meyer","DE","Germany","M",1965-05-23,316
+"Matteo Romano","Matteo","Romano","IT","Italy","M",1949-11-07,946
+"Katharina Schneider","Katharina","Schneider","DE","Germany","F",1965-09-23,273
+"Alex Fischer","Alex","Fischer","DE","Germany","M",1998-07-03,304
+"Silvia Esposito","Silvia","Esposito","IT","Italy","F",1946-10-13,854
+"Jonas Schulz","Jonas","Schulz","DE","Germany","M",1970-06-09,359
+"Sara Bianchi","Sara","Bianchi","IT","Italy","F",1963-04-02,825
+"Manon Martin","Manon","Martin","FR","France","F",2000-07-03,31
+"Paula González","Paula","González","ES","Spain","F",1989-06-07,623
+"Clement Robert","Clement","Robert","FR","France","M",1952-12-15,185
+"Kevin Richard","Kevin","Richard","FR","France","M",1964-06-11,176
+"Álvaro Gómez","Álvaro","Gómez","ES","Spain","M",1981-03-15,740
+"Philipp Schmidt","Philipp","Schmidt","DE","Germany","M",1954-03-31,342
+"Alba López","Alba","López","ES","Spain","F",1987-03-19,685
+"Julia Hoffmann","Julia","Hoffmann","DE","Germany","F",1978-11-03,220
+"Thomas Robert","Thomas","Robert","FR","France","M",1998-02-16,105
+"Lucia Sánchez","Lucia","Sánchez","ES","Spain","F",1993-06-22,677
+"Quentin Martin","Quentin","Martin","FR","France","M",1999-02-16,131
+"Lukas Weber","Lukas","Weber","DE","Germany","M",1981-02-15,315
+"Charlotte Clark","Charlotte","Clark","GB","United Kingdom of Great Britain and Northern Ireland","F",1985-12-25,433
+"Sophie Schulz","Sophie","Schulz","DE","Germany","F",1998-02-10,299
+"Tom Brown","Tom","Brown","GB","United Kingdom of Great Britain and Northern Ireland","M",1945-12-01,552
+"James Johnson","James","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","M",1947-06-13,510
+"Ana Gómez","Ana","Gómez","ES","Spain","F",1968-05-04,650
+"Sara Esposito","Sara","Esposito","IT","Italy","F",1983-11-26,824
+"Chloe Jackson","Chloe","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","F",1958-07-12,419
+"Marco Ricci","Marco","Ricci","IT","Italy","M",1966-06-08,919
+"Maria Gómez","Maria","Gómez","ES","Spain","F",1990-07-28,610
+"Daniel Anderson","Daniel","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","M",1949-05-13,541
+"Julie Petit","Julie","Petit","FR","France","F",1975-03-11,67
+"Tom Johnson","Tom","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","M",2000-09-29,560
+"Nicolas Moreau","Nicolas","Moreau","FR","France","M",1979-04-14,120
+"Federico Bruno","Federico","Bruno","IT","Italy","M",2002-03-02,978
+"Julien Bernard","Julien","Bernard","FR","France","M",1995-02-18,122
+"Daniel Davies","Daniel","Davies","GB","United Kingdom of Great Britain and Northern Ireland","M",1952-01-04,544
+"Fabian Hoffmann","Fabian","Hoffmann","DE","Germany","M",1945-12-17,370
+"Marina Sánchez","Marina","Sánchez","ES","Spain","F",1968-05-16,697
+"Johanna Weber","Johanna","Weber","DE","Germany","F",1978-04-11,285
+"Katie Hall","Katie","Hall","GB","United Kingdom of Great Britain and Northern Ireland","F",1960-01-25,498
+"Ana López","Ana","López","ES","Spain","F",1997-10-18,645
+"Adrian Martín","Adrian","Martín","ES","Spain","M",1957-07-23,749
+"Ellie Doherty","Ellie","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","F",1946-10-05,475
+"Matthew Jackson","Matthew","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","M",1944-06-24,599
+"Ben Green","Ben","Green","GB","United Kingdom of Great Britain and Northern Ireland","M",2003-05-09,537
+"Alejandro Sánchez","Alejandro","Sánchez","ES","Spain","M",1988-02-04,757
+"Daniel Meyer","Daniel","Meyer","DE","Germany","M",1964-08-21,336
+"Clement Martin","Clement","Martin","FR","France","M",1990-06-24,181
+"Lauren Johnson","Lauren","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","F",1950-01-29,460
+"Thomas Richard","Thomas","Richard","FR","France","M",1984-12-05,106
+"Anna Schneider","Anna","Schneider","DE","Germany","F",1953-07-28,233
+"Silvia Colombo","Silvia","Colombo","IT","Italy","F",1985-01-02,857
+"Sarah Müller","Sarah","Müller","DE","Germany","F",1953-11-24,261
+"Elisa Russo","Elisa","Russo","IT","Italy","F",1947-04-22,862
+"Camille Thomas","Camille","Thomas","FR","France","F",1948-11-25,14
+"Matthew Clark","Matthew","Clark","GB","United Kingdom of Great Britain and Northern Ireland","M",1981-08-08,593
+"Chiara Esposito","Chiara","Esposito","IT","Italy","F",1970-03-30,814
+"Elisa Ricci","Elisa","Ricci","IT","Italy","F",1950-03-16,869
+"Ben Brown","Ben","Brown","GB","United Kingdom of Great Britain and Northern Ireland","M",1960-04-12,532
+"Federico Rossi","Federico","Rossi","IT","Italy","M",2001-09-25,971
+"Julie Richard","Julie","Richard","FR","France","F",1970-03-30,66
+"Tim Müller","Tim","Müller","DE","Germany","M",1990-08-03,381
+"Javier Rodríguez","Javier","Rodríguez","ES","Spain","M",1974-10-23,774
+"Romain Moreau","Romain","Moreau","FR","France","M",1994-05-28,200
+"Francesca Russo","Francesca","Russo","IT","Italy","F",1962-03-11,842
+"Matthew Hall","Matthew","Hall","GB","United Kingdom of Great Britain and Northern Ireland","M",1962-05-10,598
+"Alice Rossi","Alice","Rossi","IT","Italy","F",1975-09-21,871
+"Romain Richard","Romain","Richard","FR","France","M",1946-12-22,196
+"Tom Clark","Tom","Clark","GB","United Kingdom of Great Britain and Northern Ireland","M",1991-02-27,553
+"Manon Dubois","Manon","Dubois","FR","France","F",1954-02-06,33
+"Federica Greco","Federica","Greco","IT","Italy","F",1979-11-25,890
+"Emma Hall","Emma","Hall","GB","United Kingdom of Great Britain and Northern Ireland","F",1978-08-13,448
+"Lena Schulz","Lena","Schulz","DE","Germany","F",1979-06-21,259
+"Lauren Anderson","Lauren","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","F",1951-10-19,451
+"Thomas Moreau","Thomas","Moreau","FR","France","M",1969-09-15,110
+"Lucia Fernández","Lucia","Fernández","ES","Spain","F",1944-05-01,672
+"Anna Wagner","Anna","Wagner","DE","Germany","F",1971-03-14,237
+"Pauline Richard","Pauline","Richard","FR","France","F",1967-01-29,86
+"Maxime Leroy","Maxime","Leroy","FR","France","M",1992-01-05,149
+"Jonas Schmidt","Jonas","Schmidt","DE","Germany","M",1975-11-17,352
+"Marco Russo","Marco","Russo","IT","Italy","M",2003-09-10,912
+"Hannah Davies","Hannah","Davies","GB","United Kingdom of Great Britain and Northern Ireland","F",2002-01-24,464
+"Lucia García","Lucia","García","ES","Spain","F",1965-06-28,671
+"Ryan Anderson","Ryan","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","M",1964-04-05,571
+"Federica Russo","Federica","Russo","IT","Italy","F",1964-01-20,882
+"Quentin Moreau","Quentin","Moreau","FR","France","M",1990-11-23,140
+"Michael Schmidt","Michael","Schmidt","DE","Germany","M",1964-10-05,322
+"Paula Sánchez","Paula","Sánchez","ES","Spain","F",1997-02-25,627
+"Katharina Schmidt","Katharina","Schmidt","DE","Germany","F",1985-08-12,272
+"Lukas Schmidt","Lukas","Schmidt","DE","Germany","M",1997-02-13,312
+"Léa Petit","Léa","Petit","FR","France","F",1969-01-30,27
+"Julien Richard","Julien","Richard","FR","France","M",1977-10-02,126
+"Davide Russo","Davide","Russo","IT","Italy","M",1981-08-19,962
+"Katharina Becker","Katharina","Becker","DE","Germany","F",1972-02-20,278
+"Katharina Meyer","Katharina","Meyer","DE","Germany","F",2001-03-11,276
+"Philipp Wagner","Philipp","Wagner","DE","Germany","M",1953-05-13,347
+"Alexandre Richard","Alexandre","Richard","FR","France","M",1983-05-17,156
+"Laura Martín","Laura","Martín","ES","Spain","F",1997-09-13,619
+"Francesca Ferrari","Francesca","Ferrari","IT","Italy","F",1960-12-17,843
+"Lena Müller","Lena","Müller","DE","Germany","F",1986-03-25,251
+"Katie Anderson","Katie","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","F",1967-07-13,491
+"Nicolas Bernard","Nicolas","Bernard","FR","France","M",1986-01-20,112
+"Laura Schulz","Laura","Schulz","DE","Germany","F",1972-09-15,229
+"Álvaro Martín","Álvaro","Martín","ES","Spain","M",2003-02-18,739
+"Johanna Müller","Johanna","Müller","DE","Germany","F",1957-01-11,281
+"Alessandro Bruno","Alessandro","Bruno","IT","Italy","M",1996-01-02,958
+"Alice Greco","Alice","Greco","IT","Italy","F",1971-01-19,880
+"Ana Pérez","Ana","Pérez","ES","Spain","F",1946-07-05,648
+"Fabian Müller","Fabian","Müller","DE","Germany","M",2000-09-05,361
+"Sarah Weber","Sarah","Weber","DE","Germany","F",1977-12-17,265
+"Katharina Weber","Katharina","Weber","DE","Germany","F",1944-01-20,275
+"Martina Bianchi","Martina","Bianchi","IT","Italy","F",1973-01-13,835
+"Andrea Ricci","Andrea","Ricci","IT","Italy","M",1978-08-14,909
+"Ben Clark","Ben","Clark","GB","United Kingdom of Great Britain and Northern Ireland","M",1964-09-04,533
+"Katharina Fischer","Katharina","Fischer","DE","Germany","F",1951-04-01,274
+"Martina Greco","Martina","Greco","IT","Italy","F",1972-03-10,840
+"Julien Durand","Julien","Durand","FR","France","M",1987-10-18,128
+"Sam Doherty","Sam","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","M",1947-05-26,585
+"Ana Fernández","Ana","Fernández","ES","Spain","F",1965-01-29,642
+"Julie Bernard","Julie","Bernard","FR","France","F",1974-06-16,62
+"Chloé Robert","Chloé","Robert","FR","France","F",1998-06-19,45
+"Alex López","Alex","López","ES","Spain","M",1987-07-17,765
+"Chiara Bruno","Chiara","Bruno","IT","Italy","F",1999-01-04,818
+"Andrea Colombo","Andrea","Colombo","IT","Italy","M",1950-06-12,907
+"Martina Esposito","Martina","Esposito","IT","Italy","F",1965-02-25,834
+"Manon Bernard","Manon","Bernard","FR","France","F",1999-06-28,32
+"Katie Green","Katie","Green","GB","United Kingdom of Great Britain and Northern Ireland","F",1977-05-29,497
+"Luca Romano","Luca","Romano","IT","Italy","M",1966-05-22,936
+"Davide Rossi","Davide","Rossi","IT","Italy","M",1996-07-06,961
+"Tom Davies","Tom","Davies","GB","United Kingdom of Great Britain and Northern Ireland","M",1991-07-19,554
+"Alex Green","Alex","Green","GB","United Kingdom of Great Britain and Northern Ireland","M",1977-10-14,527
+"Alex Meyer","Alex","Meyer","DE","Germany","M",1968-12-31,306
+"Sophie Hoffmann","Sophie","Hoffmann","DE","Germany","F",1997-09-06,300
+"Jonas Müller","Jonas","Müller","DE","Germany","M",2000-05-21,351
+"Carlos Rodríguez","Carlos","Rodríguez","ES","Spain","M",1971-05-27,784
+"Federica Ricci","Federica","Ricci","IT","Italy","F",1986-12-19,889
+"Sara Romano","Sara","Romano","IT","Italy","F",1972-06-10,826
+"Adam Anderson","Adam","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","M",1982-07-22,561
+"Romain Petit","Romain","Petit","FR","France","M",1947-01-08,197
+"Sam Jackson","Sam","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","M",1956-04-13,589
+"Marina Fernández","Marina","Fernández","ES","Spain","F",2003-08-20,692
+"Manon Thomas","Manon","Thomas","FR","France","F",1956-02-20,34
+"Elisa Greco","Elisa","Greco","IT","Italy","F",1947-12-02,870
+"Mathilde Martin","Mathilde","Martin","FR","France","F",1973-12-05,91
+"Miguel López","Miguel","López","ES","Spain","M",1977-09-22,795
+"Kevin Becker","Kevin","Becker","DE","Germany","M",2001-09-17,398
+"Andrea Esposito","Andrea","Esposito","IT","Italy","M",1991-12-09,904
+"Emma Evans","Emma","Evans","GB","United Kingdom of Great Britain and Northern Ireland","F",1992-10-01,446
+"Marina Rodríguez","Marina","Rodríguez","ES","Spain","F",1949-07-27,694
+"Emma Jackson","Emma","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","F",1950-03-20,449
+"Philipp Meyer","Philipp","Meyer","DE","Germany","M",2003-12-15,346
+"Julien Moreau","Julien","Moreau","FR","France","M",1948-04-24,130
+"Anna Becker","Anna","Becker","DE","Germany","F",1982-03-19,238
+"Daniel Fischer","Daniel","Fischer","DE","Germany","M",1976-05-25,334
+"Megan Brown","Megan","Brown","GB","United Kingdom of Great Britain and Northern Ireland","F",1963-04-01,422
+"Marie Moreau","Marie","Moreau","FR","France","F",1984-10-14,10
+"Philipp Schulz","Philipp","Schulz","DE","Germany","M",1979-03-08,349
+"Daniel Schulz","Daniel","Schulz","DE","Germany","M",1986-06-22,339
+"Laura Thomas","Laura","Thomas","FR","France","F",1958-06-04,54
+"Tim Weber","Tim","Weber","DE","Germany","M",1990-01-01,385
+"Sophie Doherty","Sophie","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","F",1961-01-19,485
+"Nicolas Richard","Nicolas","Richard","FR","France","M",1985-03-16,116
+"Emily Johnson","Emily","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","F",1990-10-29,410
+"Mathilde Richard","Mathilde","Richard","FR","France","F",1982-02-01,96
+"Lorenzo Bianchi","Lorenzo","Bianchi","IT","Italy","M",1962-10-31,985
+"Andrea Romano","Andrea","Romano","IT","Italy","M",1966-02-02,906
+"Stefano Greco","Stefano","Greco","IT","Italy","M",1992-08-01,1000
+"Marcel Schneider","Marcel","Schneider","DE","Germany","M",1993-04-22,373
+"Jack Anderson","Jack","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","M",1956-01-27,511
+"Camille Bernard","Camille","Bernard","FR","France","F",1983-05-16,12
+"Kevin Schmidt","Kevin","Schmidt","DE","Germany","M",2003-11-23,392
+"Miguel González","Miguel","González","ES","Spain","M",1993-09-03,793
+"Chloe Johnson","Chloe","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","F",1965-04-15,420
+"Hannah Doherty","Hannah","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","F",1950-05-19,465
+"Antoine Durand","Antoine","Durand","FR","France","M",1988-05-14,168
+"Pauline Thomas","Pauline","Thomas","FR","France","F",1970-01-26,84
+"Julien Petit","Julien","Petit","FR","France","M",1973-10-15,127
+"Alba Martínez","Alba","Martínez","ES","Spain","F",1973-09-27,686
+"Lukas Schulz","Lukas","Schulz","DE","Germany","M",2003-08-02,319
+"Adam Evans","Adam","Evans","GB","United Kingdom of Great Britain and Northern Ireland","M",1953-06-21,566
+"Antoine Thomas","Antoine","Thomas","FR","France","M",1967-06-19,164
+"Giulia Colombo","Giulia","Colombo","IT","Italy","F",1973-06-26,807
+"Camille Richard","Camille","Richard","FR","France","F",2001-12-10,16
+"Quentin Petit","Quentin","Petit","FR","France","M",1956-07-06,137
+"Pauline Dubois","Pauline","Dubois","FR","France","F",1990-01-09,83
+"Lisa Schmidt","Lisa","Schmidt","DE","Germany","F",1958-11-06,242
+"Martina Rossi","Martina","Rossi","IT","Italy","F",1953-08-28,831
+"Laura Hoffmann","Laura","Hoffmann","DE","Germany","F",1993-02-27,230
+"Ben Davies","Ben","Davies","GB","United Kingdom of Great Britain and Northern Ireland","M",1984-12-03,534
+"Sara Bruno","Sara","Bruno","IT","Italy","F",1962-08-10,828
+"Silvia Bruno","Silvia","Bruno","IT","Italy","F",1980-07-02,858
+"Kevin Weber","Kevin","Weber","DE","Germany","M",1947-10-20,395
+"Sophie Wagner","Sophie","Wagner","DE","Germany","F",1964-03-12,297
+"Manon Moreau","Manon","Moreau","FR","France","F",1945-05-05,40
+"Alejandro López","Alejandro","López","ES","Spain","M",1986-12-25,755
+"Philipp Hoffmann","Philipp","Hoffmann","DE","Germany","M",1958-03-18,350
+"Sarah Petit","Sarah","Petit","FR","France","F",1984-05-27,77
+"Elisa Bianchi","Elisa","Bianchi","IT","Italy","F",1986-11-02,865
+"Camille Robert","Camille","Robert","FR","France","F",1990-04-12,15
+"Quentin Leroy","Quentin","Leroy","FR","France","M",1975-01-14,139
+"Alex Brown","Alex","Brown","GB","United Kingdom of Great Britain and Northern Ireland","M",1975-12-13,522
+"Tim Becker","Tim","Becker","DE","Germany","M",1976-10-02,388
+"Ana Martínez","Ana","Martínez","ES","Spain","F",1993-03-06,646
+"Alba Pérez","Alba","Pérez","ES","Spain","F",1984-02-12,688
+"Megan Jackson","Megan","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","F",1973-01-04,429
+"Daniel Becker","Daniel","Becker","DE","Germany","M",1990-07-30,338
+"Katie Johnson","Katie","Johnson","GB","United Kingdom of Great Britain and Northern Ireland","F",1946-07-20,500
+"Kevin Moreau","Kevin","Moreau","FR","France","M",1960-03-12,180
+"Chloe Evans","Chloe","Evans","GB","United Kingdom of Great Britain and Northern Ireland","F",2003-03-31,416
+"Alex Martín","Alex","Martín","ES","Spain","M",1947-06-28,769
+"Davide Greco","Davide","Greco","IT","Italy","M",1963-08-10,970
+"Lisa Meyer","Lisa","Meyer","DE","Germany","F",1983-12-23,246
+"Federico Greco","Federico","Greco","IT","Italy","M",1995-07-25,980
+"Alexandre Thomas","Alexandre","Thomas","FR","France","M",1967-09-17,154
+"Kevin Martin","Kevin","Martin","FR","France","M",1972-05-26,171
+"Lena Becker","Lena","Becker","DE","Germany","F",1977-04-09,258
+"Tim Fischer","Tim","Fischer","DE","Germany","M",1989-01-23,384
+"Ana Sánchez","Ana","Sánchez","ES","Spain","F",1990-12-14,647
+"Emma Brown","Emma","Brown","GB","United Kingdom of Great Britain and Northern Ireland","F",1945-10-29,442
+"Marco Greco","Marco","Greco","IT","Italy","M",2001-10-15,920
+"Lorenzo Romano","Lorenzo","Romano","IT","Italy","M",1977-10-25,986
+"Camille Martin","Camille","Martin","FR","France","F",1944-02-08,11
+"Michael Schulz","Michael","Schulz","DE","Germany","M",1980-11-15,329
+"Lauren Clark","Lauren","Clark","GB","United Kingdom of Great Britain and Northern Ireland","F",1955-05-19,453
+"Federica Ferrari","Federica","Ferrari","IT","Italy","F",1990-03-27,883
+"Daniel Sánchez","Daniel","Sánchez","ES","Spain","M",1987-11-01,717
+"Ben Hall","Ben","Hall","GB","United Kingdom of Great Britain and Northern Ireland","M",1956-02-06,538
+"Daniel Fernández","Daniel","Fernández","ES","Spain","M",1962-05-17,712
+"Martina Ricci","Martina","Ricci","IT","Italy","F",1969-06-07,839
+"Sarah Fischer","Sarah","Fischer","DE","Germany","F",1996-06-09,264
+"Sarah Wagner","Sarah","Wagner","DE","Germany","F",2002-03-14,267
+"Chloé Richard","Chloé","Richard","FR","France","F",1973-04-12,46
+"Luca Rossi","Luca","Rossi","IT","Italy","M",1996-05-24,931
+"Sara Sánchez","Sara","Sánchez","ES","Spain","F",1954-09-07,667
+"Laura Moreau","Laura","Moreau","FR","France","F",1990-06-04,60
+"Emily Doherty","Emily","Doherty","GB","United Kingdom of Great Britain and Northern Ireland","F",1983-10-14,405
+"Andrea Rodríguez","Andrea","Rodríguez","ES","Spain","F",1997-09-04,654
+"Hannah Evans","Hannah","Evans","GB","United Kingdom of Great Britain and Northern Ireland","F",1997-09-14,466
+"Maxime Petit","Maxime","Petit","FR","France","M",1949-03-31,147
+"Federica Bruno","Federica","Bruno","IT","Italy","F",1949-03-22,888
+"Adrian Pérez","Adrian","Pérez","ES","Spain","M",1954-11-04,748
+"Lucia Rodríguez","Lucia","Rodríguez","ES","Spain","F",1996-04-02,674
+"Carlos Gómez","Carlos","Gómez","ES","Spain","M",1957-06-11,790
+"Lucia Gómez","Lucia","Gómez","ES","Spain","F",1946-02-21,680
+"Marina López","Marina","López","ES","Spain","F",2002-06-30,695
+"Léa Durand","Léa","Durand","FR","France","F",1960-11-18,28
+"Daniel Green","Daniel","Green","GB","United Kingdom of Great Britain and Northern Ireland","M",1996-05-11,547
+"Camille Moreau","Camille","Moreau","FR","France","F",1964-12-03,20
+"Anna Schmidt","Anna","Schmidt","DE","Germany","F",1963-02-09,232
+"Marco Ferrari","Marco","Ferrari","IT","Italy","M",1946-03-31,913
+"Philipp Becker","Philipp","Becker","DE","Germany","M",1964-08-17,348
+"Álvaro Rodríguez","Álvaro","Rodríguez","ES","Spain","M",1975-09-17,734
+"Sarah Becker","Sarah","Becker","DE","Germany","F",1988-09-17,268
+"Sarah Schmidt","Sarah","Schmidt","DE","Germany","F",1972-12-29,262
+"Andrea Russo","Andrea","Russo","IT","Italy","M",1982-08-07,902
+"Mathilde Dubois","Mathilde","Dubois","FR","France","F",1988-03-23,93
+"Daniel Weber","Daniel","Weber","DE","Germany","M",1956-04-21,335
+"Maxime Durand","Maxime","Durand","FR","France","M",1991-08-22,148
+"Jonas Becker","Jonas","Becker","DE","Germany","M",1971-10-15,358
+"Léa Richard","Léa","Richard","FR","France","F",1998-07-14,26
+"Pauline Bernard","Pauline","Bernard","FR","France","F",2003-03-20,82
+"Tom Anderson","Tom","Anderson","GB","United Kingdom of Great Britain and Northern Ireland","M",1996-04-22,551
+"Federico Ferrari","Federico","Ferrari","IT","Italy","M",1950-10-21,973
+"Nicolas Durand","Nicolas","Durand","FR","France","M",1971-11-24,118
+"Daniel Pérez","Daniel","Pérez","ES","Spain","M",1960-01-08,718
+"Sam Evans","Sam","Evans","GB","United Kingdom of Great Britain and Northern Ireland","M",1965-12-02,586
+"Federico Romano","Federico","Romano","IT","Italy","M",2001-08-21,976
+"Ryan Jackson","Ryan","Jackson","GB","United Kingdom of Great Britain and Northern Ireland","M",1991-08-29,579
+"Elisa Colombo","Elisa","Colombo","IT","Italy","F",1987-10-10,867
+"Chloe Clark","Chloe","Clark","GB","United Kingdom of Great Britain and Northern Ireland","F",1964-05-31,413
+"Tim Wagner","Tim","Wagner","DE","Germany","M",1956-08-20,387
+"Andrea Pérez","Andrea","Pérez","ES","Spain","F",1962-04-19,658
+"Sara Ricci","Sara","Ricci","IT","Italy","F",1949-12-23,829
+"Elisa Esposito","Elisa","Esposito","IT","Italy","F",1955-09-24,864
+"Megan Hall","Megan","Hall","GB","United Kingdom of Great Britain and Northern Ireland","F",1983-07-01,428
+"Laura Durand","Laura","Durand","FR","France","F",1982-09-16,58
+"Marco Romano","Marco","Romano","IT","Italy","M",1946-02-08,916
+"Chiara Greco","Chiara","Greco","IT","Italy","F",1978-03-09,820
+"James Evans","James","Evans","GB","United Kingdom of Great Britain and Northern Ireland","M",1944-03-20,506
+"Laura Wagner","Laura","Wagner","DE","Germany","F",2001-04-15,227
+"Quentin Thomas","Quentin","Thomas","FR","France","M",1946-05-12,134
+"Anna Fischer","Anna","Fischer","DE","Germany","F",1992-10-22,234
+"Alice Russo","Alice","Russo","IT","Italy","F",1956-01-08,872
+"Antoine Leroy","Antoine","Leroy","FR","France","M",1958-09-17,169
+"Julie Leroy","Julie","Leroy","FR","France","F",1957-05-09,69
+"Sarah Durand","Sarah","Durand","FR","France","F",1966-01-30,78
+"Chloé Durand","Chloé","Durand","FR","France","F",1989-12-04,48
+"Paula Rodríguez","Paula","Rodríguez","ES","Spain","F",1960-10-30,624
+"Alex González","Alex","González","ES","Spain","M",1971-10-01,763
+"Kevin Robert","Kevin","Robert","FR","France","M",1944-03-14,175
+"Lisa Weber","Lisa","Weber","DE","Germany","F",1975-07-11,245
+"Francesco Ricci","Francesco","Ricci","IT","Italy","M",1967-06-11,929
+"Lea Weber","Lea","Weber","DE","Germany","F",2001-09-25,205
+"Nicolas Leroy","Nicolas","Leroy","FR","France","M",1987-01-25,119
+"Alba García","Alba","García","ES","Spain","F",1961-05-08,681
+"Giulia Bianchi","Giulia","Bianchi","IT","Italy","F",1967-05-08,805
+"Paula Martínez","Paula","Martínez","ES","Spain","F",1980-02-27,626
+"Charlotte Evans","Charlotte","Evans","GB","United Kingdom of Great Britain and Northern Ireland","F",1967-03-10,436
+"Sam Davies","Sam","Davies","GB","United Kingdom of Great Britain and Northern Ireland","M",1965-09-10,584
+"Philipp Schneider","Philipp","Schneider","DE","Germany","M",1945-12-20,343
+"Daniel Müller","Daniel","Müller","DE","Germany","M",1958-01-21,331
+"Kevin Durand","Kevin","Durand","FR","France","M",1979-04-12,178
+"Adam Brown","Adam","Brown","GB","United Kingdom of Great Britain and Northern Ireland","M",1974-07-07,562
+"James Green","James","Green","GB","United Kingdom of Great Britain and Northern Ireland","M",1960-07-13,507
+"Alejandro Martínez","Alejandro","Martínez","ES","Spain","M",1946-12-04,756
+"Ben Evans","Ben","Evans","GB","United Kingdom of Great Britain and Northern Ireland","M",1970-06-26,536
+"Luca Bianchi","Luca","Bianchi","IT","Italy","M",1967-09-17,935
+"Jack Evans","Jack","Evans","GB","United Kingdom of Great Britain and Northern Ireland","M",1971-02-27,516
+"Quentin Durand","Quentin","Durand","FR","France","M",1995-01-18,138
+"Megan Davies","Megan","Davies","GB","United Kingdom of Great Britain and Northern Ireland","F",1998-04-30,424
+"Lea Meyer","Lea","Meyer","DE","Germany","F",1993-09-17,206
+"Marie Durand","Marie","Durand","FR","France","F",1977-06-11,8
+"Ryan Davies","Ryan","Davies","GB","United Kingdom of Great Britain and Northern Ireland","M",1953-03-31,574
+"Kevin Schneider","Kevin","Schneider","DE","Germany","M",1993-12-31,393
+"Federica Colombo","Federica","Colombo","IT","Italy","F",1967-10-07,887
+"Lena Wagner","Lena","Wagner","DE","Germany","F",1976-04-11,257
+"Javier Fernández","Javier","Fernández","ES","Spain","M",1972-12-11,772
+"Fabian Schmidt","Fabian","Schmidt","DE","Germany","M",1967-08-29,362
+"Chloé Thomas","Chloé","Thomas","FR","France","F",1970-03-26,44
+"Laura Weber","Laura","Weber","DE","Germany","F",1950-12-28,225
+"Johanna Wagner","Johanna","Wagner","DE","Germany","F",1954-04-07,287
+"Elisa Romano","Elisa","Romano","IT","Italy","F",1949-11-18,866
+"Jack Green","Jack","Green","GB","United Kingdom of Great Britain and Northern Ireland","M",1973-07-06,517
+"Alice Ferrari","Alice","Ferrari","IT","Italy","F",1992-06-15,873
+"Chloe Davies","Chloe","Davies","GB","United Kingdom of Great Britain and Northern Ireland","F",1999-07-24,414
+"Daniel Wagner","Daniel","Wagner","DE","Germany","M",1978-02-23,337
+"Emily Davies","Emily","Davies","GB","United Kingdom of Great Britain and Northern Ireland","F",1995-08-09,404
+"Alessandro Romano","Alessandro","Romano","IT","Italy","M",1958-11-28,956
+"Lucia Martín","Lucia","Martín","ES","Spain","F",1995-10-09,679
+"Tom Green","Tom","Green","GB","United Kingdom of Great Britain and Northern Ireland","M",1988-10-04,557
+"Thomas Durand","Thomas","Durand","FR","France","M",1955-04-23,108
